@@ -12,7 +12,6 @@ function App() {
           <input type="password" placeholder="Password" className="form-input" />
           <button type="submit" className="login-button">Login</button>
           <button type="submit" className="login-button">Login</button>
-          <button type="submit" className="login-button">Login</button>
         </form>
       </header>
     </div>
